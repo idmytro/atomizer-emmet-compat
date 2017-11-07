@@ -1,0 +1,19 @@
+{
+  "name": "atomizer-emmet-compat",
+  "version": "0.1.0",
+  "description": "Let's use custom rules, untill https://github.com/acss-io/atomizer/issues/308",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/atomizer-emmet-compat.git"
+  },
+  "author": "Dmytro Cisar <i@dmyt.ro> (http://dmyt.ro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idmytro/atomizer-emmet-compat/issues"
+  },
+  "homepage": "https://github.com/idmytro/atomizer-emmet-compat#readme"
+}
