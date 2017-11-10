@@ -2,7 +2,7 @@ module.exports = [
   {
     type: 'pattern',
     id: 'flex-grow-emmet',
-    name: 'Flex Grow Emmet',
+    name: 'Flex Grow',
     matcher: 'Fxg',
     allowParamToValue: true,
     styles: {
