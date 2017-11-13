@@ -82,4 +82,18 @@ module.exports = [
       "wr": "wrap-reverse"
     }]
   },
+  {
+    type: "pattern",
+    name: "Flex wrap",
+    matcher: "Fxw",
+    allowParamToValue: false,
+    styles: {
+      "flex-wrap": "$0"
+    },
+    arguments: [{
+      "nw": "nowrap",
+      "w": "wrap",
+      "wr": "wrap-reverse"
+    }]
+  }
 ];
