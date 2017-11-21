@@ -1,6 +1,6 @@
 {
   "name": "atomizer-emmet-compat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Let's use custom rules, untill https://github.com/acss-io/atomizer/issues/308",
   "main": "index.js",
   "scripts": {

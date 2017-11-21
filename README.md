@@ -4,10 +4,10 @@ Let's use custom rules, untill https://github.com/acss-io/atomizer/issues/308
 
 ## How to use
 
-Add dependency in your `package.json`
+Install from npm
 
-```json
-    "atomizer-emmet-compat":"https://github.com/idmytro/atomizer-emmet-compat.git"
+```
+npm install atomizer-emmet-compat --save-dev
 ```
 
 Modify your atomizer rules
