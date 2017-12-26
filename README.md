@@ -1,4 +1,5 @@
 # Atomizer Emmet Compat
+## `Fx`, `Fxg`, `Fxs`, `Fxb`, `Fxd`, `Fxf`, `Fxw`
 
 Let's use custom rules, untill https://github.com/acss-io/atomizer/issues/308
 
